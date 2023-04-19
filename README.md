@@ -10,11 +10,11 @@ This project is aimed at implementing and experimenting with various machine lea
 
 This project has the following dependencies:
 
-- Python (version X.X.X)
-- NumPy (version X.X.X)
-- Pandas (version X.X.X)
-- Scikit-Learn (version X.X.X)
-- Matplotlib (version X.X.X)
+- Python (version 3)
+- NumPy 
+- Pandas 
+- Scikit-Learn 
+- Matplotlib 
 
 You can install the dependencies using the following command:
 
