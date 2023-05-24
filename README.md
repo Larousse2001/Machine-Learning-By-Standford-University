@@ -6,6 +6,13 @@ This is a machine learning project that contains various models and algorithms i
 
 This project is aimed at implementing and experimenting with various machine learning techniques and algorithms covered in the Coursera course. The project includes implementation of different supervised and unsupervised learning algorithms, such as linear regression, logistic regression, neural networks, support vector machines, k-means clustering, and more. The project also includes data preprocessing, feature engineering, model evaluation, and visualization techniques.
 
+
+## Certif
+<p align="center">
+  <img src="/slides/ab.png" alt="gainedcertif">
+</p>
+Verify at: https://www.coursera.org/account/accomplishments/verify/49GK2N64TH9X
+
 ## Dependencies
 
 This project has the following dependencies:
